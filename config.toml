@@ -1,4 +1,4 @@
-baseurl = "www.leruaite.com.br"
+baseurl = "www.leruaite.com.br/portfolio/"
 title = "Leruaite Econômico"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
