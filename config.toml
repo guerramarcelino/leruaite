@@ -1,5 +1,5 @@
-baseurl = "https://example.org/"
-title = "Creative portfolio"
+baseurl = "leruaite.com.br"
+title = "Leruaite Econômico"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -10,12 +10,11 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "default"
-  description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  style = "blue"
+  description = "Este blog respeita a teoria econômica"
+  copyright = "&copy;2013-2020 Leruaite Corporation"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London."
+    "Leruaite sobre economia, política e cultura. Moderado por cearenses cabeça-chata."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -29,7 +28,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "you@yoursite.com"
+  email = "leruaiteeconomico@gmail.com"
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]
@@ -42,26 +41,26 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Home"
-  url = "portfolio/"
+  name = "Bem-vindo"
+  url = "posts/"
   home = true
 
   [[params.navlinks]]
-  name = "About"
+  name = "Sobre nós"
   url = "about/"
 
   [[params.navlinks]]
-  name = "Get in touch"
+  name = "Contato"
   url = "contact/"
 
   [params.social]
-  facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
-  instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
-  youtube       = "full profile url in youtube"
-  whatsapp      = "wa.me service link"
+  facebook      = "https://www.facebook.com/leruaiteeconomico"
+#  googleplus    = "full profile url in googleplus"
+  email         = "leruaiteeconomico@gmail.com"
+  twitter       = "https://twitter.com/leruaite"
+#  linkedin      = "full profile url in linkedin"
+#  stackoverflow = "full profile url in stackoverflow"
+#  instagram     = "full profile url in instagram"
+  github        = "https://github.com/guerramarcelino/regressoesespurias"
+#  youtube       = "full profile url in youtube"
+#  whatsapp      = "wa.me service link"
