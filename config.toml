@@ -1,16 +1,16 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
-baseurl = "https://example.com/"  # Include trailing slash
-title = "Leruaite Econ�mico"
+baseurl = "https://leruaite.com.br"  # Include trailing slash
+title = "Leruaite Econômico"
 author = "Marcelino Guerra"
-copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
+copyright = "Copyright © 2013–2020, Leruaite Corporation."
 # canonifyurls = true
 paginate = 10
 theme = "hugo-clarity"
 
 disqusShortname = ""
 
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "pt-br"
 # [languages]
 # config/_default/languages.toml
 
@@ -18,7 +18,7 @@ DefaultContentLanguage = "en"
 # config/_default/menus/menu.xx.toml
 
 [taxonomies]
-category = "categories"
+category = "Categorias"
 tag = "tags"
 series = "series"
 
@@ -44,7 +44,7 @@ series = "series"
 
 [params]
 author = "Jane Doe"
-twitter = "@janedoe"
+twitter = "@leruaite"
 largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
 introDescription = "Technologist, perpetual student, teacher, continual incremental improvement."
 # description = "" # set your site's description here. will be use for home page content meta tags (seo). Alternatively set this description in your homepage content file i.e content/_index.md. Whatever is set in the latter will take precedence
@@ -73,7 +73,7 @@ mainSections = ["post"] # see config details here https://gohugo.io/functions/wh
 # center logo on navbar
 centerLogo = false # Set to "true" for centering or "false" for left aligned.
 
-logo = "logos/logo.png"
+logo = ""
 
 # Label Non inline images on an article body
 figurePositionShow = false # toggle on or off globally
