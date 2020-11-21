@@ -1,4 +1,4 @@
-baseurl = "leruaite.com.br"
+baseurl = ""
 title = "Leruaite Econômico"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
@@ -42,7 +42,7 @@ googleAnalytics = ""
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Bem-vindo"
-  url = "posts/"
+  url = "portfolio/"
   home = true
 
   [[params.navlinks]]
