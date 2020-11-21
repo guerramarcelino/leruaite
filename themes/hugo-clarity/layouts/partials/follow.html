@@ -1,0 +1,13 @@
+{{- $items := .Site.Data.social }}
+<div class='follow'>
+  {{- range $items }}
+  {{- $url := .url }}
+  {{- if .internal }}
+    {{ $url = absLangURL .url }}
+  {{- end }}
+  <a href="{{ $url }}">
+    {{ partial "sprite" (dict "icon" .item) }}
+  </a>
+  {{- end }}
+  {{- partial "mode" . }}
+</div>
