@@ -1,2 +1,2 @@
 # leruaite
-Repositório do blog Leruaite Econômico
+Repositório do Blog Leruaite Econômico
