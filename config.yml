@@ -1,8 +1,8 @@
-baseurl: "https://example.com/"
-title: Ghostwriter example
+baseurl: "/"
+title: Leruaite Econômico
 theme: ghostwriter
 languageCode: en-us
-copyright: My Name
+copyright: 2013-2020 Leruaite Econômico
 disqusShortname: XXX
 googleAnalytics: XXX
 pygmentsUseClasses: true
