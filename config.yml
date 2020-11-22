@@ -1,7 +1,7 @@
 baseurl: "/"
 title: Leruaite Econômico
 theme: ghostwriter
-languageCode: en-us
+languageCode: pt
 copyright: 2013-2020 Leruaite Econômico
 disqusShortname: XXX
 googleAnalytics: XXX
@@ -28,8 +28,8 @@ privacy:
     useSessionStorage: false
 
 author:
-  name: My Name
-  profile: ""
+  name: Marcelino Guerra
+  profile: "guerramarcelino.github.io"
 
 taxonomies:
   tag: tags
@@ -38,21 +38,21 @@ params:
   mainSections:
     - post
   intro: true
-  headline: Ghostwriter example
-  description: Ghostwriter example description
-  github: "https://github.com/XXX"
-  gitlab: "https://gitlab.com/XXX"
-  linkedin: "https://linkedin.com/in/XXX/"
-  twitter: "https://twitter.com/XXX"
-  stackoverflow: "https://stackoverflow.com/users/XXX/YYY"
-  facebook: "https://www.facebook.com/username"
-  email: XXX@example.com
+  headline: Leruaite Econômico
+  description: Este blog respeita a teoria econômica
+  github: "https://github.com/regressoesespurias"
+  #gitlab: "https://gitlab.com/XXX"
+  #linkedin: "https://linkedin.com/in/XXX/"
+  twitter: "https://twitter.com/leruaite"
+  #stackoverflow: "https://stackoverflow.com/users/XXX/YYY"
+  facebook: "https://www.facebook.com/leruaiteeconomico"
+  email: leruaiteeconomico@gmail.com
   opengraph: true
   shareTwitter: true
   rss: true
   shareFacebook: true
   shareLinkedIn: false
-  dateFormat: "Mon, Jan 2, 2006"
+  dateFormat: "2 Jan, 2006"
   exponeaJsUrl: ""
   exponeaTarget: ""
   exponeaToken: ""
