@@ -1,0 +1,41 @@
+{{ define "main" }}
+
+<section class="section-sm pb-0">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-8 text-center">
+        <h2>{{ .Title | markdownify }}</h2>
+        <div class="content mb-4">
+          {{ .Content }}
+
+</section>
+
+
+<section class="section-sm pb-0">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-8 text-center">
+        <h2 class="mb-4">Mande sua mensagem!</h2>
+        <form action="#" method="POST" class="row">
+          <div class="col-lg-6">
+            <input type="text" class="form-control mb-4" id="name" name="name" placeholder="Seu Nome">
+          </div>
+          <div class="col-lg-6">
+            <input type="email" class="form-control mb-4" id="email" name="email" placeholder="Seu Email">
+          </div>
+          <div class="col-12">
+            <input type="text" class="form-control mb-4" id="subject" name="subject" placeholder="Assunto">
+          </div>
+          <div class="col-12">
+            <textarea name="message" id="message" class="form-control mb-4" placeholder="Sua Mensagem"></textarea>
+          </div>
+          <div class="col-12">
+            <button type="submit" class="btn btn-primary">Enviar</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

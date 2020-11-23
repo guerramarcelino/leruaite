@@ -1,0 +1,141 @@
+######################## default configuration ####################
+baseURL = "/"
+languageCode = "en-us"
+title = "Leruaite Econômico"
+theme = "liva-hugo"
+summaryLength = "10"
+paginate = 6
+disqusShortname = ""
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+############################# Plugins ##############################
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "plugins/bootstrap/bootstrap.min.css"
+  [[params.plugins.css]]
+  URL = "plugins/slick/slick.css"
+  [[params.plugins.css]]
+  URL = "plugins/themify-icons/themify-icons.css"
+  [[params.plugins.css]]
+  URL = "plugins/venobox/venobox.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "plugins/jQuery/jquery.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/bootstrap/bootstrap.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/venobox/venobox.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/fuse.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/mark.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/search.js"
+
+
+############################## navigation ###############################
+[menu]
+
+  # main menu
+  [[menu.main]]
+  name = "Sobre nós"
+  URL = "about"
+  weight = 1
+
+  [[menu.main]]
+  name = "Blog"
+  URL = "blog"
+  weight = 1
+
+  [[menu.main]]
+  name = "Contato"
+  URL = "contact"
+  weight = 2
+
+  # footer menu
+  [[menu.footer]]
+  name = "Sobre nós"
+  URL = "about"
+  weight = 1
+
+  [[menu.footer]]
+  name = "Blog"
+  URL = "blog"
+  weight = 2
+
+  [[menu.footer]]
+  name = "Contato"
+  URL = "contact"
+  weight = 3
+
+
+#################### default parameters ################################
+[params]
+logo = "images/logo.png"
+home = "Home"
+# Meta data
+#description = ""
+author = "Leruaite Econômico"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# Contact Information
+#mobile = ""
+email = "leruaiteeconomico@gmail.com"
+location = "Ceará, Brasil"
+# copyright
+copyright = "| copyright &copy; 2013-2020 |"
+
+  # Preloader
+  [params.preloader]
+  enable = true
+  preloader = "" # use .png , .svg or .gif format
+
+  # search
+  [params.search]
+  enable = true
+
+############################ news letter ########################
+#[params.newsletter]
+#enable = true
+#title = "Join Our Newsletter"
+#content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
+
+
+# cookies
+#[params.cookies]
+#enable = true
+#expire_days = 2
+
+
+############################# social site ########################
+[[params.social]]
+title = "facebook"
+icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
+link = "https://www.facebook.com/leruaiteeconomico"
+
+[[params.social]]
+title = "twitter"
+icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
+link = "https://twitter.com/leruaite"
+
+#[[params.social]]
+#title = "instagram"
+#icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
+#link = "#"
+
+[[params.social]]
+title = "github"
+icon = "ti-github" # themify icon : https://themify.me/themify-icons
+link = "https://github.com/guerramarcelino/regressoesespurias"
+
+#[[params.social]]
+#title = "linkedin"
+#icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+#link = "#"
