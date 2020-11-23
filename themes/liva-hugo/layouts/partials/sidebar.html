@@ -1,6 +1,3 @@
-<!-- advertisement -->
-<a class="twitter-timeline" href="https://twitter.com/leruaite" data-widget-id="545424221011456000">Tweets de @leruaite</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 <div class="col-lg-4">
   <!-- about -->
   <div class="widget">
@@ -30,19 +27,6 @@
     {{- end }}
   </div>
   <!-- Tags -->
-  <div class="widget">
-    <h4 class="widget-title">Tag</h4>
-    {{- if isset .Site.Taxonomies "tags" }}
-    {{- if not (eq (len .Site.Taxonomies.tags) 0) }}
-    <ul class="list-inline">
-      {{- range $name, $items := .Site.Taxonomies.tags }}
-      <li class="list-inline-item"><a class="d-block p-2 bg-primary text-white"
-          href="{{ `tags/` | relLangURL }}{{ $name | urlize | lower }}">{{ $name | humanize }}</a></li>
-      {{- end }}
-    </ul>
-    {{- end }}
-    {{- end }}
-  </div>
   <!-- social -->
   <div class="widget">
     <h4 class="widget-title">Social</h4>
@@ -52,3 +36,6 @@
       {{ end }}
     </ul>
   </div>
+  <!-- advertisement -->
+  <a class="twitter-timeline" href="https://twitter.com/leruaite" data-widget-id="545424221011456000">Tweets de @leruaite</a>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
