@@ -2,7 +2,7 @@
 categories:
 - Economia Política
 - Microeconomia
-date: "2019-10-29T10:07:47+06:00"
+date: "2015-10-29T10:07:47+06:00"
 description: this is meta description
 draft: false
 image: images/featured-post/post-3.bmp
