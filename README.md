@@ -1,3 +1,3 @@
 # Leruaite Econômico
 
-Repositório do blog [Leruaite Econômico](www.leruaite.com.br)
+Repositório do blog [Leruaite Econômico](https://www.leruaite.com.br/).
