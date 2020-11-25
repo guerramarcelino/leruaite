@@ -4,8 +4,9 @@ categories:
 date: "2016-12-26T10:07:47+06:00"
 #description: this is meta description
 draft: false
-image: images/post/inf.jpg
-title: "2017: Juros em queda?"
+#image: images/post/inf.jpg
+title: "![](/blog/juros-em-queda-17_files/inf.jpg)
+        2017: Juros em queda?"
 type: post
 author: Isadora Costa e Felipe Bastos
 ---
@@ -14,19 +15,11 @@ Após o ano ruim para a economia brasileira, o que esperar de 2017? A economia v
 
 ​A inflação acumulada medida pelo IPCA, até novembro, registrou uma alta de 5,97% - em 12 meses, a alta é de 6,99%. Sem dúvidas, um resultado considerado satisfatório em relação ao repique inflacionário apresentado em 2015. Tal resultado teve como dois grandes fatores a melhoria da gestão do Banco Central do Brasil (BCB), que propiciou uma recuperação da confiança do mercado na política monetária, trazendo a inflação a uma trajetória convergente à meta e a queda da atividade econômica, puxada principalmente pela queda do consumo das famílias - segundo o último relatório do PIB trimestral divulgado pelo IBGE, a despesa de consumo das famílias caiu pelo sétimo trimestre seguido.
 
-<div>
-    <a href="https://plotly.com/~marcelinobguerra/10/?share_key=etxfCzMmiZOWHHF0rL7x0F" target="_blank" title="ipca_juros" style="display: block; text-align: center;"><img src="https://plotly.com/~marcelinobguerra/10.png?share_key=etxfCzMmiZOWHHF0rL7x0F" alt="ipca_juros" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
-    <script data-plotly="marcelinobguerra:10" sharekey-plotly="etxfCzMmiZOWHHF0rL7x0F" src="https://plotly.com/embed.js" async></script>
-</div>
-
+<iframe width="620" height="440" frameborder="0" scrolling="no" src="//plot.ly/~marcelinobguerra/10.embed"></iframe>
 
 O desempenho da economia poderia ser estimulado positivamente - e sem medo - com um corte da taxa de juros, pois no lado monetário a inflação converge para a meta. Essa medida tornaria o crédito mais barato, dando fôlego aos investimentos privados e ao consumo das famílias, estimulando, assim, a demanda agregada, fazendo a atividade econômica fluir novamente.
 
-<div>
-    <a href="https://plotly.com/~marcelinobguerra/8/?share_key=4KT5BKx6DGOl5EDfHbMuRi" target="_blank" title="pibvar" style="display: block; text-align: center;"><img src="https://plotly.com/~marcelinobguerra/8.png?share_key=4KT5BKx6DGOl5EDfHbMuRi" alt="pibvar" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
-    <script data-plotly="marcelinobguerra:8" sharekey-plotly="4KT5BKx6DGOl5EDfHbMuRi" src="https://plotly.com/embed.js" async></script>
-</div>
-
+<iframe width="620" height="440" frameborder="0" scrolling="no"  src="//plot.ly/~marcelinobguerra/8.embed"></iframe>
 
 Outro forte indício de queda dos juros seria a tendência crescente tanto da dívida pública quanto do montante necessário ao pagamento dos juros da dívida. Dados fornecidos pelo Tesouro Nacional (set/2016) mostram que a dívida bruta como percentual do PIB já ultrapassou os 70%. Levando em consideração essa trajetória crescente da dívida, mesmo após a aprovação da PEC 55, que, a rigor, vai melhorar o perfil fiscal do país através políticas de contenção de gastos da máquina púbica, a queda da taxa básica dos juros, decerto, iria acelerar de bom grado esse processo.
 
