@@ -3,7 +3,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Leruaite Econômico"
 theme = "liva-hugo"
-summaryLength = 15
+summaryLength = 8
 paginate = 6
 disqusShortname = ""
 
@@ -82,7 +82,7 @@ logo = "images/logo.png"
 home = "Home"
 # Meta data
 #description = ""
-author = "Leruaite Econômico"
+#author = "Leruaite Econômico"
 # Google Analitycs
 googleAnalitycsID = "254109964"
 # Contact Information

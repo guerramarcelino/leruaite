@@ -17,7 +17,7 @@
             <div class="col-md-6 offset-md-1">
               <div class="card-body">
                 <div class="mb-3 post-meta">
-                  <span>Por {{ .Site.Params.Author }}</span>
+                  <span>{{ .Site.Params.Author }}</span>
                   {{ if not .Params.HideDate }}
                   <span class="border-bottom border-primary px-2 mx-1"></span>
                   <span>{{ .PublishDate.Format "02 January 2006" }}</span>
@@ -44,18 +44,15 @@
       {{ range first 3 (where .Site.RegularPages "Type" "post")}}
       <div class="col-lg-4 small-post-border">
         <article class="media">
-          {{ if .Params.Image }}
-          <div class="recent-post-thumb mr-3" style="background-image: url('{{ .Params.Image | absURL }}');"></div>
-          {{ end }}
-          <div class="media-body">
+            <div class="media-body">
             <div class="mb-3 post-meta">
-              <span>Por {{ .Site.Params.Author }}</span>
+              <span> {{ .Site.Params.Author }}</span>
               {{ if not .Params.HideDate }}
               <span class="border-bottom border-primary px-2 mx-1"></span>
               <span>{{ .PublishDate.Format "02 Jan 2006" }}</span>
               {{ end }}
             </div>
-            <a href="{{ .Permalink }}" class="h5 d-block mb-3">{{ .Title | markdownify }}</a>
+            <a href="{{ .Permalink }}" class="h4 d-block mb-3">{{ .Title | markdownify }}</a>
             <a href="{{ .Permalink }}" class="btn btn-outline-primary">Leia mais</a>
           </div>
         </article>
@@ -86,7 +83,7 @@
                 {{ end }}
                 <a href="{{ .Permalink }}" class="h5 d-block my-3">{{ .Title | markdownify }}</a>
                 <div class="mb-3 post-meta">
-                  <span>Por {{ .Site.Params.Author }}</span>
+                  <span>{{ .Site.Params.Author }}</span>
                   {{ if not .Params.HideDate }}
                   <span class="border-bottom border-primary px-2 mx-1"></span>
                   <span>{{ .PublishDate.Format "02 January 2006" }}</span>
