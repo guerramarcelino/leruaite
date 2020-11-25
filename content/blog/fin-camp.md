@@ -1,6 +1,6 @@
 ---
 categories:
-- Finanças Públicas
+- Economia Política
 date: "2015-06-04T10:07:47+06:00"
 #description: this is meta description
 draft: false

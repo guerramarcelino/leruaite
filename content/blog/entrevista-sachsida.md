@@ -1,6 +1,6 @@
 ---
 categories:
-- Crescimento
+- Entrevista
 date: "2015-06-11T10:07:47+06:00"
 #description: this is meta description
 draft: false
