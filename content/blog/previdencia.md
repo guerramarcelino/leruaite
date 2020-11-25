@@ -1,14 +1,13 @@
 ---
+author: Diego Carneiro
 categories:
 - Microeconomia
 - Educação
 date: "2015-05-25T10:07:47+06:00"
-#description: this is meta description
 draft: false
 image: images/post/previdencia.jpg
-title: "Considerações sobre a Previdência Social"
+title: Considerações sobre a Previdência Social
 type: post
-author: Diego Carneiro
 ---
 Apesar do debate sobre Previdência Social ser cercado de controvérsias, creio que poucos são aqueles que discordam que o sistema previdenciário brasileiro caminha a passos rápidos para um desequilíbrio insustentável. Vários são os fatores que colaboram para este cenário pessimista, entre eles a inversão de nossa pirâmide demográfica e o descompasso atuarial de benefícios e contribuições.
 

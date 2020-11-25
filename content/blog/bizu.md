@@ -1,13 +1,13 @@
 ---
+author: Marcelino Guerra
 categories:
 - Microeconomia
 date: "2015-10-14T10:07:47+06:00"
 description: this is meta description
 draft: false
 image: images/featured-post/post-1.bmp
-title: "Excesso de velocidade e o bizu da prova: o raciocínio econômico"
+title: 'Excesso de velocidade e o bizu da prova: o raciocínio econômico'
 type: post
-author: Marcelino Guerra
 ---
 
 Era 1 de setembro de 1922, na cidade de Florença. Buoso Donati, empresário muito bem-sucedido, acabara de morrer em seu quarto. Existia um boato de que ele havia deixado toda sua fortuna para os monges. Seus parentes, antes que a notícia se espalhasse pela cidade, contrataram os serviços do ator Gianni Schicchi. O objetivo da família era que Schicchi, interpretando Donati à beira da morte, mandasse o tabelião reescrever o testamento, deixando a fortuna para a família Donati, em vez de doá-la para os monges. Receosos de que Schicchi expusesse a trama, os familiares logo avisaram ao ator das severas punições associadas ao crime o qual ele fora contratado para cometer: exílio de Florença e corte da mão direita.

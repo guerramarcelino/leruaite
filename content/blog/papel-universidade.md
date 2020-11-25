@@ -1,14 +1,13 @@
 ---
+author: Phillipp Farias
 categories:
 - Microeconomia
 - Educação
 date: "2015-04-24T10:07:47+06:00"
-#description: this is meta description
 draft: false
 image: images/post/univ.jpg
-title: "O papel da Universidade"
+title: O papel da Universidade
 type: post
-author: Phillipp Farias
 ---
 
 Hoje, trazemos um pouco do debate sobre o papel da Universidade e sua real função na sociedade. Afinal, ela é geradora de conhecimentos, ampliando o capital humano das pessoas, ou atua apenas como uma espécie de filtro, separando os alunos mais capacitados dos menos hábeis? Na literatura sobre o tema, há três linhas de pensamento que analisam a questão: Capital Humano, Filtragem e "Sheepskin Effect".

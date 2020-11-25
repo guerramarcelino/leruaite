@@ -1,13 +1,12 @@
 ---
+author: Marcelino Guerra
 categories:
 - Economia Política
 date: "2015-06-04T10:07:47+06:00"
-#description: this is meta description
 draft: false
 image: images/post/eikedilma.jpg
-title: "Risco de morte e financiamento de campanhas: estimando conexões políticas"
+title: 'Risco de morte e financiamento de campanhas: estimando conexões políticas'
 type: post
-author: Marcelino Guerra
 ---
 
 A evidência anedótica sugere que ser bem conectado politicamente costuma abrir portas. Veja o caso da cervejaria Itaipava (aqui). O Grupo Petrópolis – controlador da cervejaria Itaipava –, mesmo devendo R$ 400 milhões à Receita Federal, conseguiu um empréstimo, sem dar garantia alguma e com juros camaradas, de R$ 830 milhões do Banco do Nordeste (BNB), entre 2013 e 2014. Detalhe: Walter Faria, o dono da cervejaria, doou R$17,5 milhões para a campanha da presidente Dilma. Interessante, não?

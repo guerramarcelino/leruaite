@@ -1,14 +1,13 @@
 ---
+author: Marcelino Guerra
 categories:
 - Microeconomia
 - Economia do Crime
 date: "2014-11-16T10:07:47+06:00"
-#description: this is meta description
 draft: false
 image: images/post/dick.jpg
-title: "O brasileiro é um pouco desonesto"
+title: O brasileiro é um pouco desonesto
 type: post
-author: Marcelino Guerra
 ---
 
 “O Brasil é assim porque os brasileiros querem levar vantagem em tudo” ou “Os brasileiros merecem os políticos corruptos que têm” são pensamentos arraigados em nossa mente. Seguindo o raciocínio de John Galbraith, a facilidade com que essa ideia é absorvida e o grau em que ela afeta nosso bem-estar pessoal – estamos falando de verbas desviadas que poderiam melhorar nossa qualidade de vida – são fatores que contribuem fortemente para a construção de uma (quase) sabedoria convencional: o brasileiro é desonesto. Mas o que a pesquisa científica tem a dizer sobre isso?

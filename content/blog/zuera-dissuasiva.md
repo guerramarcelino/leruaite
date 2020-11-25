@@ -1,14 +1,13 @@
 ---
+author: Marcelino Guerra
 categories:
 - Microeconomia
 - Economia do Crime
 date: "2015-11-30T10:07:47+06:00"
-#description: this is meta description
 draft: false
 image: images/post/colombia2.bmp
-title: "O criminoso racional, a zuera dissuasiva e o capital social"
+title: O criminoso racional, a zuera dissuasiva e o capital social
 type: post
-author: Marcelino Guerra
 ---
 
 Ainda se recuperando do "furacão" Pablo Escobar, em 1994, Bogotá elegeu como prefeito Antanas Mockus, filósofo, matemático e "antipolítico". Na época, a capital colombiana era também a capital mundial de assassinatos: mais de 4,200 homicídios somente no ano de 1993. O tráfego nas ruas não era menos caótico - uma taxa de fatalidade quatro vezes maior que em Nova Iorque e um departamento de trânsito altamente corrupto. Diante desse caos, uma das primeiras ações do novo prefeito foi alocar mímicos nos cruzamentos mais movimentados da cidade.

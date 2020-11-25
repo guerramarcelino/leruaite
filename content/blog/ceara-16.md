@@ -1,4 +1,5 @@
 ---
+author: Marcelino Guerra
 categories:
 - Política
 - Ceará
@@ -6,10 +7,8 @@ date: "2016-08-19T10:07:47+06:00"
 description: this is meta description
 draft: false
 image: images/post/elec.jpg
-#tags:
 title: Quem manda na política cearense?
 type: featured
-author: Marcelino Guerra
 ---
 
 As eleições municipais! Nada melhor do que elas para mostrar como as legendas são apenas instrumentos de poder a serviço dos políticos. O bizarro apoio do Partido dos Trabalhadores (PT) ao Partido do Movimento Democrático Brasileiro (PMDB) em 648 alianças municipais é sintomático; em Aiuaba, interior do Ceará, PMDB e PT se juntaram a Democratas (DEM), Partido da Social Democracia Brasileira (PSDB), Partido da República (PR), Partido Progressista (PP) e Partido Comunista do Brasil (PC do B) para, de fato, formar a coligação “por uma Aiuaba de todos”.

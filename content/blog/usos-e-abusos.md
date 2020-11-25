@@ -1,13 +1,12 @@
 ---
+author: Marcelino Guerra
 categories:
 - Finanças Públicas
 date: "2014-10-22T10:07:47+06:00"
-#description: this is meta description
 draft: false
 image: images/post/lulafhc.png
-title: "Usos e abusos da história"
+title: Usos e abusos da história
 type: post
-author: Marcelino Guerra
 ---
 
 Antes de deixar de lado as paixões e fazer um exame honesto do passado, devemos definir alguns conceitos.

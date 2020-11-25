@@ -1,13 +1,12 @@
 ---
+author: Felipe Bastos e Ítalo Santos
 categories:
 - Crescimento
 date: "2014-11-16T10:07:47+06:00"
-#description: this is meta description
 draft: false
 image: images/post/mct.jpg
-title: "Com baixo crescimento, como melhorar o padrão de vida do brasileiro?"
+title: Com baixo crescimento, como melhorar o padrão de vida do brasileiro?
 type: post
-author: Felipe Bastos e Ítalo Santos
 ---
 
 É na área econômica que o governo reeleito tem recebido as mais duras críticas. E é nessa área que certamente se concentra o grande desafio para os próximos quatro anos. O descumprimento da meta de inflação, que reduz a credibilidade dos agentes na política econômica anunciada, e o descontrole fiscal não são os únicos males que preocupam os economistas. As baixas taxas de investimento e o fraco crescimento econômico dos últimos quatro anos fazem com que o futuro do Brasil não seja tão promissor quanto o esperado.

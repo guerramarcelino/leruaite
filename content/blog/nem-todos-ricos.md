@@ -1,14 +1,13 @@
 ---
+author: Marcelino Guerra,  Felipe Bastos e Ítalo Santos
 categories:
 - Crescimento
 - Desenvolvimento Econômico
 date: "2015-11-30T10:07:47+06:00"
-#description: this is meta description
 draft: false
 image: images/post/tiopat.bmp
-title: "Por que nem todos os países são ricos?"
+title: Por que nem todos os países são ricos?
 type: post
-author: Marcelino Guerra,  Felipe Bastos e Ítalo Santos
 ---
 
 Um cidadão norueguês padrão é quatro vezes mais rico que um brasileiro comum, que, por sua vez, possui uma renda 26 vezes maior que um habitante modelo da República Democrática do Congo. Sim, são enormes as diferenças nos padrões de vida entre os países. E essa enorme diferença internacional entre as rendas é um fenômeno recente – começou a partir da Revolução Industrial.

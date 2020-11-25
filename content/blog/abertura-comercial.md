@@ -1,13 +1,12 @@
 ---
+author: Felipe Bastos
 categories:
 - Macroeconomia
 date: "2015-06-22T10:07:47+06:00"
-#description: this is meta description
 draft: false
 image: images/post/abert.jpg
-title: "Abertura comercial para sair da crise?"
+title: Abertura comercial para sair da crise?
 type: post
-author: Felipe Bastos
 ---
 
 Muito se tem comentado a respeito de quais rumos a economia brasileira deve tomar para sair da crise em que se encontra. Um dos caminhos sugeridos por economistas proeminentes – como Alexandre Scheinkman (1), Edmar Bacha (2) e Monica de Bolle (3) – é uma maior inserção da economia brasileira no comércio internacional. O argumento clássico sobre os benefícios do comércio estão relacionados aos ganhos de escala frutos da expansão dos mercados (desde que os países se especializem na produção de bens em que possuam vantagem comparativa) e, entre outras coisas, aos ganhos de produtividade oriundos da difusão tecnológica.

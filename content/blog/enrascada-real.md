@@ -1,13 +1,12 @@
 ---
+author: Marcelino Guerra
 categories:
 - Finanças Públicas
 date: "2014-11-05T10:07:47+06:00"
-#description: this is meta description
 draft: false
 image: images/post/dilma_guido.jpg
-title: "Crescimento potencial e enrascada real"
+title: Crescimento potencial e enrascada real
 type: post
-author: Marcelino Guerra
 ---
 
 O Brasil cresceu pouco nos últimos 12 trimestres: em média, 1,5%. Poderia ter crescido mais? Quanto? Os economistas costumam medir o PIB potencial, um conceito hipotético de capacidade de crescimento da economia associada à taxa de desemprego natural. Quando a economia cresce acima de seu potencial, podem ocorrer pressões inflacionárias e/ou deterioração das contas externas. Quando a economia opera abaixo de seu potencial, fica com capacidade ociosa, podendo gerar, por exemplo, desemprego. Com uma medida de PIB potencial como referência, temos uma ideia de quanto poderíamos ter crescido, bem como a magnitude dos desvios de curto prazo que ocorreram.

@@ -1,14 +1,13 @@
 ---
+author: Diego Carneiro
 categories:
 - Microeconomia
 - Educação
 date: "2015-05-18T10:07:47+06:00"
-#description: this is meta description
 draft: false
 image: images/post/lapis.jpg
-title: "O retorno da educação no Brasil"
+title: O retorno da educação no Brasil
 type: post
-author: Diego Carneiro
 ---
 
 O impacto da educação sobre a renda média de um país é, provavelmente, uma das relações econômicas mais amplamente aceitas pela comunidade acadêmica internacional. A força dessa convicção pode ser observada nas propostas de políticas públicas defendidas pelo mais amplo espectro ideológico. O incentivo a qualificação parece onipresente e, em maior ou menor grau, é possível identifica-lo desde o Estado Mínimo de Hong Kong até os mais fechados regimes socialistas ao longo da história.

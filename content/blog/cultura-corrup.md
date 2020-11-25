@@ -1,4 +1,5 @@
 ---
+author: Marcelino Guerra
 categories:
 - Economia Política
 - Microeconomia
@@ -8,7 +9,6 @@ draft: false
 image: images/featured-post/post-3.bmp
 title: A cultura da corrupção
 type: post
-author: Marcelino Guerra
 ---
 
 Pesquisas apontam que os seres humanos tentam equilibrar desejos contraditórios: querem se beneficiar com a trapaça, mas também querem se ver como pessoas honestas e honradas. E que, em média, a trapaça é generalizada e moderada. Entretanto, esses testes estão fora de qualquer contexto cultural/legal e não explicam o porquê de algumas sociedades serem dominadas por um comportamento de obediência à lei, enquanto em outras todos sabem que o suborno é o único método de "fazer as coisas funcionarem".

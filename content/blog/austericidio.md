@@ -1,13 +1,12 @@
 ---
+author: Marcelino Guerra
 categories:
 - Finanças Públicas
 date: "2015-06-11T10:07:47+06:00"
-#description: this is meta description
 draft: false
 image: images/post/austerity.jpg
-title: "Não é austericídio: foi miopia"
+title: 'Não é austericídio: foi miopia'
 type: post
-author: Marcelino Guerra
 ---
 
 O Brasil cresceu quase nada ano passado. As previsões para esse ano também não são animadoras – por enquanto, queda de 1,2% do PIB. De fato, o ciclo econômico não é favorável e, após 4 anos de baixo crescimento, o mercado de trabalho reage em termos de aumento do desemprego. Para os amigos da inflação, agora é a hora perfeita para "relaxar a política fiscal". Tudo isso para recuperar uma economia atualmente estagnada e “em desaceleração desde 2010”. Ou isso, ou adotar medidas de austeridade para equilibrar as finanças públicas e "jogar a economia em uma recessão", chegando, possivelmente, à condição europeia – vulgo fundo do poço (aqui). Um corte de gastos ou aumento de impostos em uma economia que não cresce seria suicídio. Austericídio!

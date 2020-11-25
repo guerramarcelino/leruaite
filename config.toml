@@ -3,7 +3,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Leruaite Econômico"
 theme = "liva-hugo"
-summaryLength = "10"
+summaryLength = 15
 paginate = 6
 disqusShortname = ""
 
@@ -84,7 +84,7 @@ home = "Home"
 #description = ""
 author = "Leruaite Econômico"
 # Google Analitycs
-googleAnalitycsID = "Your ID"
+googleAnalitycsID = "254087702"
 # Contact Information
 #mobile = ""
 email = "leruaiteeconomico@gmail.com"

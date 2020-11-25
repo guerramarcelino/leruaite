@@ -1,13 +1,12 @@
 ---
+author: Leruaite Econômico
 categories:
 - Entrevista
 date: "2015-06-11T10:07:47+06:00"
-#description: this is meta description
 draft: false
 image: images/post/entrevista.bmp
-title: "Leruaite entrevista : Adolfo Sachsida"
+title: 'Leruaite entrevista : Adolfo Sachsida'
 type: post
-author: "Leruaite Econômico"
 ---
 
 Para inaugurar a nova coluna do blog, o Leruaite Econômico conversou com Adolfo Sachsida, um dos pesquisadores brasileiros mais produtivos da área de economia! Confira a entrevista!

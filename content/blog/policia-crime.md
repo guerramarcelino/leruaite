@@ -1,4 +1,5 @@
 ---
+author: Marcelino Guerra
 categories:
 - Microeconomia
 - Economia do Crime
@@ -8,7 +9,6 @@ draft: false
 image: images/featured-post/policia.jpg
 title: Polícia reduz crime?
 type: post
-author: Marcelino Guerra
 ---
 
 [Embora a saúde esteja no topo da lista de preocupações do eleitorado de Fortaleza](http://g1.globo.com/politica/eleicoes/2016/blog/eleicao-2016-em-numeros/post/saude-e-o-principal-problema-citado-em-todas-capitais-aponta-ibope.html), talvez pela cidade ser uma das mais violentas do mundo¹, talvez por conta da presença de um Capitão da Polícia Militar entre os candidatos a prefeito, [há quem diga que a segurança pautou o pleito eleitoral neste ano](http://www.valor.com.br/politica/4682895/seguranca-pauta-disputa-por-fortaleza).

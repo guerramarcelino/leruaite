@@ -1,15 +1,13 @@
 ---
+author: Marcelino Guerra e Felipe Bastos
 categories:
 - Macroeconomia
 - Finanças Públicas
 date: "2016-03-07T10:07:47+06:00"
-#description: this is meta description
 draft: false
 image: images/post/guidomiop.bmp
-#tags:
-title: "No começo: o mito do PIB potencial"
+title: 'No começo: o mito do PIB potencial'
 type: post
-author: Marcelino Guerra e Felipe Bastos
 ---
 
 No ano passado, uma notícia antiga sobre o dólar tomou conta das redes sociais. Era outubro de 2014, quando o então futuro ex-ministro Guido Mantega profetizou “quem apostar contra o real vai quebrar a cara”. Na época, o dólar era cotado em R$ 2,40. Hoje, com o valor da moeda americana rondando os quatro reais, a afirmação soa como piada de mau gosto. Contudo, esse não foi seu único gracejo. Além de zombar da inteligência dos brasileiros em quase todas as suas previsões de crescimento do PIB, o ex-ministro, em 12/03/2008, decretou a queda do “mito do PIB potencial” ([aqui](http://oglobo.globo.com/economia/mantega-afirma-que-foi-derrubado-mito-do-pib-potencial-3624228)).
