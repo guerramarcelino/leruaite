@@ -1,0 +1,42 @@
+---
+title: "Tempestade\uFEFF perfeita e a popularidade da Dilma"
+author: Marcelino Guerra
+date: '2015-03-22'
+slug: tempestade-perfeita-dilma
+categories:
+  - Macroeconomia
+  - Política
+tags: []
+image: /images/dilma.jpg
+---
+
+Em outubro de 2013, Delfim Netto, ex-ministro da Fazenda, escreveu em sua coluna no Valor Econômico sobre alguns riscos que a economia brasileira poderia enfrentar no primeiro semestre de 2014. O contexto já era de fraco crescimento econômico e certa deterioração das contas públicas, acentuada pela insistência do poder legislativo em enfraquecer a Lei de Responsabilidade Fiscal. Diante desse quadro, não era improvável que as agências de classificação de risco rebaixassem o rating da dívida brasileira. Isso, juntamente com uma mudança de rumo na política monetária dos EUA, criaria a "tempestade perfeita" - algumas consequências no âmbito doméstico seriam a forte desvalorização do real em relação ao dólar, o que exigiria elevação das taxas de juros pelo Banco Central, provavelmente acompanhada por aumento do nível de desemprego. A ocorrência desse evento às vésperas do pleito eleitoral poderia comprometer a candidata Dilma Rousseff. Poderia. 
+
+De fato, a "tempestade perfeita" não veio e Dilma foi reeleita. Porém, a piora bastante sentida em alguns indicadores econômicos explicam o motivo de, atualmente e segundo o Datafolha, 62% dos eleitores brasileiros considerarem o atual governo ruim ou péssimo - rejeição comparável à enfrentada por Sarney e Collor. Por exemplo, há uma associação fortemente negativa entre a aprovação do governo e os dados de inflação de preços monitorados - energia elétrica, combustível, transporte público, etc. -, bem como entre a aprovação do governo e a taxa de câmbio real, com se pode ver na figura abaixo. Essas duas variáveis econômicas foram as que mais chamaram a atenção no primeiro trimestre desse ano: somente em janeiro e fevereiro de 2015, a inflação dos preços administrados acumulou alta de 4,87%. O dólar comercial supera R$3,20. 
+
+<center>
+<img src="../../images/post/ava1.jpg" width="1200" height="1400">
+<figcaption>Avaliação do governo x inflação de preços administrados à esquerda; Avaliação do governo x log(taxa de câmbio) à direta.</figcaption>
+</center>
+
+
+A situação de hoje é (pior) parecida com a de 1999, início do segundo governo FHC e também ano de ajuste fiscal, em que houve a mesma combinação: um forte aumento dos preços monitorados e uma desvalorização acentuada do real frente ao dólar. Fernando Henrique Cardoso chegou a ter rejeição de 56% do eleitorado em setembro de 1999,  mesmo tendo sido reeleito em primeiro turno no ano anterior, e mesmo na ausência de um grave escândalo de corrupção no período em questão.
+
+Falando em escândalo de corrupção, na segunda metade de 2005, no auge do mensalão, Lula chegou ao seu menor nível de aprovação, 29% - que foi o pico de aprovação do FHC em seu segundo mandato -, e ao seu maior nível de rejeição, 32%. Na época, 70% dos brasileiros acreditavam que existia corrupção no governo Lula e 56% achavam que o PT havia pago a tal mesada aos parlamentares ([aqui](https://datafolha.folha.uol.com.br/opiniaopublica/2005/06/1226873-56-dos-brasileiros-acham-que-pt-pagou-mesada-a-parlamentares.shtml)). É bom lembrar que, nos quatro trimestres anteriores à revelação do mensalão, o Brasil havia crescido 5% e o desemprego estava em 9,47%, menor patamar da série até então. Agora, reflita sobre a união de uma economia que vai mal com um grave escândalo de corrupção. 
+
+<center>
+<img src="../../images/post/ava2.jpg" width="1200" height="1400">
+</center>
+
+
+Outra variável econômica importante para a avaliação do governo é a taxa de desemprego. Talvez o gráfico acima seja a verdadeira "[Curva de Rousseff](https://maovisivel.blogspot.com/2014/10/a-curva-de-rousseff.html)": a troca de um pouco menos de desemprego por um pouco mais de aprovação popular. A explicação real seria a execução de uma política econômica míope, que mantém o nível de emprego em busca de popularidade e desconsidera aspectos primários como trade-offs e incentivos. Porém, após três anos seguidos de baixo crescimento do PIB, o mercado de trabalho deve dar a resposta esperada e não tão obvia nos últimos tempos: o aumento da taxa de desemprego. Está formada a tempestade que combina fatores econômicos e políticos e é o pesadelo de qualquer presidente.  
+
+<center>
+<img src="../../images/post/ava3.jpg" width="1200" height="1400">
+</center>
+
+Por fim, no gráfico acima, as evoluções da taxa de sucesso das propostas do executivo no congresso, disponibilizados pelo NECON ([aqui](http://necon.iesp.uerj.br/)), e da avaliação do governo ruim/péssimo, entre 2003 e 2014. O aumento da rejeição do eleitorado em relação à Dilma pode influenciar o sucesso legislativo da presidente, que vem caindo desde 2012 - situação agravada desde que o governo perdeu o controle da Câmara e do Senado. O poder de barganha dos parceiros do PT no congresso aumentou e o manejo da coalizão ficou ainda mais complicado. Com 62% de rejeição, o governo pode não conseguir se associar ao legislativo para conseguir aprovar medidas bastante impopulares, como as mudanças das regras de benefícios trabalhistas e da desoneração da folha de pagamentos, que gerariam uma economia em torno de R$ 24bi. Mesmo não sendo "o grosso" do ajuste fiscal, que depende muito mais das ações do executivo ([aqui](https://valor.globo.com/politica/coluna/influencia-legislativa-e-pequena-no-ajuste.ghtml)), envolver o congresso e buscar um mínimo de consenso em torno desse tema seria extremamente importante.
+
+*****
+
+**Nota:** em azul, o segundo governo FHC (dados do desemprego a partir de 2002). Em vermelho mais claro, o primeiro governo Dilma. Em vermelho mais escuro, os dois mandatos de Lula. Dados da aprovação do governo CNI/Ibope, inflação de preços administrados mensal acumulada no trimestre (IPCA) e média trimestral da taxa de câmbio efetiva real (índice em log, último trimestre de 2014 sem o mês de dezembro), taxa de desemprego nos meses março, junho, setembro, dezembro.
