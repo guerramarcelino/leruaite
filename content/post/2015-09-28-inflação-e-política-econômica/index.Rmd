@@ -8,6 +8,11 @@ categories:
   - Macroeconomia
 tags: []
 image: /images/guido_tomb.jpg
+output:
+  blogdown::html_page:
+    toc: true
+    fig_width: 6
+    dev: "svg"
 ---
 
 A cada semana que passa os analistas refazem suas projeções para "mais inflação e maior queda do PIB". A inflação bate recorde: é a maior em 13 anos. Nos últimos 12 meses, a alta é de 9,5%. Muito, mas muito acima da meta de 4,5%. Culpa do tarifaço? As tarifas de energia foram responsáveis por uma parte dessa inflação tão alta, mas não se engane. Não é por acaso que a inflação de preços livres - aqueles que variam de acordo com a oferta e demanda do mercado - esteve quase sempre acima de 6,5% nos últimos 4 anos. A culpa é mesmo da política econômica, que não se importou em combater a inflação. 
