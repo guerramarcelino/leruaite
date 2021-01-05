@@ -5,7 +5,7 @@ categories:
 - Finanças Públicas
 date: "2016-03-07T10:07:47+06:00"
 draft: false
-image: images/post/guidomiop.bmp
+image: images/post/guidomiop.jpg
 title: 'No começo: o mito do PIB potencial'
 type: post
 ---

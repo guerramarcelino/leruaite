@@ -44,10 +44,10 @@ disqusShortname = ""
 [menu]
 
   # main menu
-#  [[menu.main]]
-#  name = "Sobre nós"
-#  URL = "about"
-#  weight = 1
+  [[menu.main]]
+  name = "Sobre nós"
+  URL = "about"
+  weight = 1
 
   [[menu.main]]
   name = "Blog"
@@ -60,10 +60,10 @@ disqusShortname = ""
   weight = 2
 
   # footer menu
-#  [[menu.footer]]
-#  name = "Sobre nós"
-#  URL = "about"
-#  weight = 1
+  [[menu.footer]]
+  name = "Sobre nós"
+  URL = "about"
+  weight = 1
 
   [[menu.footer]]
   name = "Blog"

@@ -1,16 +1,6 @@
 <div class="col-lg-4">
   <!-- about -->
-  <div class="widget">
-    {{ with .Site.GetPage "/about" }}
-    <h4 class="widget-title">{{ .Title | markdownify }}</h4>
-    {{ if .Params.Image }}
-    <img src="{{ .Params.Image | absURL }}" alt=""
-      class="img-fluid author-thumb-sm d-block mx-auto rounded-circle mb-4">
-    {{ end }}
-    <p>{{ .Summary }}</p>
-    <a href="{{ .Permalink }}" class="btn btn-outline-primary">Saiba mais</a>
-    {{ end }}
-  </div>
+
   <!-- category -->
   <div class="widget">
     <h4 class="widget-title">Categorias</h4>
@@ -27,6 +17,7 @@
     {{- end }}
   </div>
   <!-- Tags -->
+
   <!-- social -->
   <div class="widget">
     <h4 class="widget-title">Social</h4>
@@ -39,3 +30,5 @@
   <!-- advertisement -->
   <a class="twitter-timeline" href="https://twitter.com/leruaite" data-widget-id="545424221011456000">Tweets de @leruaite</a>
   <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<!-- facebook-->
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fleruaiteeconomico&tabs=timeline&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
